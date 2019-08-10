@@ -1,4 +1,11 @@
 package eecs2011;
+/**********************************************************
+ * EECS2011: Fundamentals of Data Structures,  Summer 2019
+ * Assignment 1
+ * Student Name: Jaleel Sayal
+ * Student cse account: jaleel24
+ * Student ID number: 21580.......
+ **********************************************************/
 /********************** Explanation of the Lists using Linked List********************
  * in case of list ADT use of  linked list is better because of flexibility it cannot be corrupted easily
  * We do not have to worry about the size of the linked list like  arrays which are fixed size
