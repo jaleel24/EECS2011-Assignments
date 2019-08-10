@@ -1,4 +1,11 @@
 package eecs2011;
+/**********************************************************
+ * EECS2011: Fundamentals of Data Structures,  Summer 2019
+ * Assignment 2
+ * Student Name: Jaleel Sayal && Stephen
+ * Student cse account: jaleel24
+ * Student ID number: 21580.......
+ **********************************************************/
 
 public class LinkedPoitionalListMain {
 
