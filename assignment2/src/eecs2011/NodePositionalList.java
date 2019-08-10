@@ -2,6 +2,14 @@ package eecs2011;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
+/**********************************************************
+ * EECS2011: Fundamentals of Data Structures,  Summer 2019
+ * Assignment 1
+ * Student Name: Jaleel Sayal and Stephen Sadampah
+ * Student cse account: jaleel24
+ * Student ID number: 21580.......
+ **********************************************************/
+
 /** Implementation of a positional list stored as a doubly linked list. */
 public class NodePositionalList<E> implements PositionalList<E> { 
 	//---------------- nested Node class ----------------
