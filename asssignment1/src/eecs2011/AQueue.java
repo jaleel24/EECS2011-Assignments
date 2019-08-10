@@ -1,4 +1,11 @@
 package eecs2011;
+/**********************************************************
+ * EECS2011: Fundamentals of Data Structures,  Summer 2019
+ * Assignment 1
+ * Student Name: Jaleel Sayal
+ * Student cse account: jaleel24
+ * Student ID number: 21580.......
+ **********************************************************/
 /********************** Explanation of the queue using Arrays********************
  * overall the big o is O(1) and the space complexity is  O(n) because creation of the queue requires blank array 
  * in case of queue linked list is better because of flexibility it cannot be corrupted easily as it follows the FIFO principal
