@@ -5,7 +5,13 @@ import java.util.Arrays;
  * We have to worry about the fixed size of the array because every time size is full we have to make a bigger backing array to add list members.
  * @avoid using array  only because of the fixed size 
  */
-
+/**********************************************************
+ * EECS2011: Fundamentals of Data Structures,  Summer 2019
+ * Assignment 1
+ * Student Name: Jaleel Sayal
+ * Student cse account: jaleel24
+ * Student ID number: 21580.......
+ **********************************************************/
 
 public class AArrayList<E> implements List<E> {
 	private int size = 0;
