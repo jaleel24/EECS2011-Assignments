@@ -4,7 +4,7 @@ import java.util.NoSuchElementException;
 
 /**********************************************************
  * EECS2011: Fundamentals of Data Structures,  Summer 2019
- * Assignment 1
+ * Assignment 2
  * Student Name: Jaleel Sayal and Stephen Sadampah
  * Student cse account: jaleel24
  * Student ID number: 21580.......
